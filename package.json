@@ -1,0 +1,20 @@
+{
+  "name": "CollegeCrewBot",
+  "version": "1.4.0",
+  "description": "A small bot for my college Discord.",
+  "main": "mybot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "TwilightZebby",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "ffmpeg-binaries": "^4.0.0",
+    "node-opus": "^0.3.1",
+    "request": "^2.88.0",
+    "stringstream": "^1.0.0",
+    "ytdl-core": "^0.29.1"
+  }
+}
