@@ -9,6 +9,7 @@ Please note that this Bot is now archived and will no longer be updated.
 
 - Install Node.js and Discord.js using [this official Discord.js guide here](https://discordjs.guide/preparations/)
 - Please make sure you've installed Discord.js version 11.x
+
 *Any Discord.js version greater than v11.4 will not work due to this Bot using v11.x keywords & stuff*
 - [Use this page of the Discord.js guide](https://discordjs.guide/preparations/setting-up-a-bot-application.html) to set up a Bot Account on Discord for running this Bot with. Follow that with the "Adding your bot to servers" page!
 
